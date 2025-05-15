@@ -69,11 +69,11 @@ streamlit run app.py
 ## 📊 Streamlit APP 
 Here is the Streamlit Interface:
 
-![Streamlit Interface](multi class image classification.png)
+![Streamlit Interface](image/multi class image classification.png)
 
 ---
 
 ## 📈 PREDICTION
 
-![Predicted outcome](prediction.png)
+![Predicted outcome](image/prediction.png)
 
