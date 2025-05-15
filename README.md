@@ -43,13 +43,13 @@ All training code is in [`notebooks/training_and_evaluation.ipynb`](notebooks/tr
 
 ## 📊 STREAMLIT DASHBOARD
 
-![Streamlit_Dashboard](images/multi.png)
+![Streamlit_Dashboard](multi.png)
 
 ---
 
 ## 📈 Predicted Outcome
 
-![Outcome](images/prediction.png)
+![Outcome](prediction.png)
 
 ---
 
