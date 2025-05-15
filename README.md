@@ -41,19 +41,15 @@ All training code is in [`notebooks/training_and_evaluation.ipynb`](notebooks/tr
 
 ---
 
-## 📊 Model Evaluation
+## 📊 STREAMLIT DASHBOARD
 
-- Accuracy: `XX.XX%`
-- Precision, Recall, F1-score per class
-- Confusion Matrix:
-
-![confusion matrix](images/confusion_matrix.png)
+![Streamlit_Dashboard](images/multi.png)
 
 ---
 
-## 📈 Training History
+## 📈 Predicted Outcome
 
-![training accuracy](images/accuracy_plot.png)
+![Outcome](images/prediction.png)
 
 ---
 
@@ -64,16 +60,4 @@ Run the fish classifier locally:
 ```bash
 cd app/
 streamlit run app.py
-
-
-## 📊 Streamlit APP 
-Here is the Streamlit Interface:
-
-![Streamlit Interface](image/multi class image classification.png)
-
----
-
-## 📈 PREDICTION
-
-![Predicted outcome](image/prediction.png)
 
