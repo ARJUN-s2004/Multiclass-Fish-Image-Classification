@@ -64,3 +64,16 @@ Run the fish classifier locally:
 ```bash
 cd app/
 streamlit run app.py
+
+
+## 📊 Streamlit APP 
+Here is the Streamlit Interface:
+
+![Streamlit Interface](multi class image classification.png)
+
+---
+
+## 📈 PREDICTION
+
+![Predicted outcome](prediction.png)
+
